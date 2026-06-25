@@ -1,3 +1,5 @@
+# Linear Algebra Checklist
+
 - [ ] Lecture 1 &rarr; Chapters 1.1-1.2 &rarr; (Watch 3Blue1Brown: *Vectors* and *Dot Products*) 
 - [ ] Lecture 2 &rarr; Chapters 2.1-2.2
 - [ ] Lecture 3 &rarr; Chapters 2.3-2.4 &rarr; (Watch 3Blue1Brown: *Linear Transformations* and *Matrix Multiplication*)
